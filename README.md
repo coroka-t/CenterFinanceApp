@@ -31,4 +31,8 @@
 Скопируйте проект на свой компьютер с помощью Git:
 
 ```bash
-git clone https://github.com/your-username/CenterFinanceApp.git
+git clone https://github.com/your-username/CenterFinanceApp.git 
+```
+
+Разработчик: Тоболина Аврора
+Email: TobolinaAV23@rostov-don.ithub.ru
