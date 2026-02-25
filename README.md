@@ -1,4 +1,4 @@
-# CenterFinanceApp — Финансовый учет для детского центра
+# CenterFinanceApp 
 
  Описание проекта: 
 
